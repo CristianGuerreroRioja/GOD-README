@@ -1,6 +1,6 @@
-# Título del Proyecto
+# Organizacion de las mesas de un bar - RICK DECKARD21
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Este proyecto trataba en montar una pagina web unida a una base de datos en la cual podamos visualziar y organizar las mesas y sus reservas. Ademas deberiamos disponer de una otra vista donde se almacenen todas las reservas a modo de historial._
 
 ## Comenzando 🚀
 
