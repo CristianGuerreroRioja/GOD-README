@@ -1,6 +1,6 @@
 # Organizacion de las mesas de un bar - RICK DECKARD21
 
-_Este proyecto trataba en montar una pagina web unida a una base de datos en la cual podamos visualziar y organizar las mesas y sus reservas. Ademas deberiamos disponer de una otra vista donde se almacenen todas las reservas a modo de historial._
+_Este proyecto trataba en montar una pagina web unida a una base de datos en la cual podamos visualizar y organizar las mesas y sus reservas. Ademas deberiamos disponer de una vista donde se almacenen todas las reservas a modo de historial._
 
 ## Comenzando 🚀
 
@@ -14,7 +14,10 @@ Mira **Deployment** (Despliegue) para conocer como desplegar el proyecto.
 _Que cosas necesitas para instalar el software y como instalarlas_
 
 ```
-Da un ejemplo
+XAMPP - https://www.apachefriends.org/es/download.html
+Phpmyadmin - Viene incluido en el dashboard de nuestro localhost al instalar XAMPP
+Visual Studio Code (o cualquier editor de codigo) - https://code.visualstudio.com/download
+
 ```
 
 ### Instalación 🔧
