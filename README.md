@@ -17,6 +17,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 XAMPP - https://www.apachefriends.org/es/download.html
 Phpmyadmin - Viene incluido en el dashboard de nuestro localhost al instalar XAMPP
 Visual Studio Code (o cualquier editor de codigo) - https://code.visualstudio.com/download
+GitHub - https://github.com/
 
 ```
 
@@ -69,6 +70,7 @@ _Herramientas utilizadas para crear el proyecto_
 
 * [Visual Studio Code](https://code.visualstudio.com/download) - El framework web usado
 * [XAMPP](https://www.apachefriends.org/es/download.html) - Paquete de software libre
+* [GITHUB](https://github.com/) - Alojamiento del proyecto con historial de subidas y control de versiones
 
 
 ## Versionado 📌
@@ -84,6 +86,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Marc Ortiz** - *Trabajo Inicial* - [MARC](https://github.com/marcortizgonzalez)
 * **Miguel Gras** - *Trabajo Inicial* - [MIGUEL](https://github.com/MiguelGras)
 * **Cristian Guerrero** - *Trabajo Inicial* - [CRISTIAN](https://github.com/CristianGuerreroRioja)
+* **Jesucristo de Nazaret** - *Aporte de fe* - [JESUS](https://github.com/dannylarrea)
 
 
 ## Licencia 📄
