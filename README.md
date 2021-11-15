@@ -82,7 +82,7 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
 
-Nuestra version del proyecto es 0.1.50
+Nuestra version del proyecto es 0.1.59
 
 ## Autores ✒️
 
