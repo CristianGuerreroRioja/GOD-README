@@ -99,7 +99,6 @@ Este proyecto está bajo la Licencia (Jacko®)
 
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+* Muchas gracias a mis compañeros de equipo por aguantarme.
+* A mi profesor por resolver nuestras dudas (aunque luego este 2h con el mismo alumno y no ayude al resto) 
+* Y a mi madre
