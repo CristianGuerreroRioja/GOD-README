@@ -24,10 +24,10 @@ Visual Studio Code (o cualquier editor de codigo) - https://code.visualstudio.co
 
 _Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
 
-_Dí cómo será ese paso_
+_XAMPP_
 
 ```
-Da un ejemplo
+En XAMPP deberemos tener ejecutando los servicios de Apache y MySQL. Apache para poder ejecutar correctamente los archivos php y MySQL para eestar ejecutando la base de datos en PhpMyAdmin.
 ```
 
 _Y repite_
@@ -36,11 +36,12 @@ _Y repite_
 hasta finalizar
 ```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
+
+_Con estas sencillas ejecuciones ya podremos enviar y recibir datos de la base de datos_
 
 ## Ejecutando las pruebas ⚙️
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+_Actualizando las reservas de las mesas_
 
 ### Analice las pruebas end-to-end 🔩
 
@@ -64,11 +65,10 @@ _Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Herramientas utilizadas para crear el proyecto_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [Visual Studio Code](https://code.visualstudio.com/download) - El framework web usado
+* [XAMPP](https://www.apachefriends.org/es/download.html) - Paquete de software libre
 
 ## Contribuyendo 🖇️
 
@@ -81,13 +81,15 @@ Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](ht
 ## Versionado 📌
 
 Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+Nuestra version del proyecto es 0.1.50
 
 ## Autores ✒️
 
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [dannylarrea](https://github.com/dannylarrea)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
+* **Marc Ortiz** - *Trabajo Inicial* - [MARC](https://github.com/marcortizgonzalez)
+* **Miguel Gras** - *Trabajo Inicial* - [MIGUEL](https://github.com/MiguelGras)
+* **Cristian Guerrero** - *Trabajo Inicial* - [CRISTIAN](https://github.com/CristianGuerreroRioja)
 
 También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
