@@ -91,11 +91,10 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **Miguel Gras** - *Trabajo Inicial* - [MIGUEL](https://github.com/MiguelGras)
 * **Cristian Guerrero** - *Trabajo Inicial* - [CRISTIAN](https://github.com/CristianGuerreroRioja)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia (Jacko©®) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
