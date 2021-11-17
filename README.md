@@ -6,7 +6,6 @@ _Este proyecto trataba en montar una pagina web unida a una base de datos en la 
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** (Despliegue) para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
@@ -54,9 +53,6 @@ _Explica que verifican estas pruebas y por qué_
 Da un ejemplo
 ```
 
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
