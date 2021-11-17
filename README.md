@@ -39,18 +39,18 @@ _Actualizando las reservas de las mesas_
 
 ### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
+_Verifican que los datos se envian y se reciben correctamente en la base de datos_
 
 ```
-Da un ejemplo
+Actualizando la fecha reserva de cualquier mesa.
 ```
 
 ### Y las pruebas de estilo de codificación ⌨️
 
-_Explica que verifican estas pruebas y por qué_
+_Verifica que nuestras contraseñas se encriptan correctamente en MD5_
 
 ```
-Da un ejemplo
+Probando a entrar en el login con la contraseña encriptada
 ```
 
 
