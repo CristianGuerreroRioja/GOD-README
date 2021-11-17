@@ -31,12 +31,6 @@ _XAMPP_
 En XAMPP deberemos tener ejecutando los servicios de Apache y MySQL. Apache para poder ejecutar correctamente los archivos php y MySQL para eestar ejecutando la base de datos en PhpMyAdmin.
 ```
 
-_Y repite_
-
-```
-hasta finalizar
-```
-
 
 _Con estas sencillas ejecuciones ya podremos enviar y recibir datos de la base de datos_
 
